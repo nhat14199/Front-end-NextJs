@@ -1,0 +1,7 @@
+.card { 
+    color: brown;
+    padding: 20px;
+    box-shadow: inset;
+    cursor: pointer;
+    background-color: burlywood;
+}
